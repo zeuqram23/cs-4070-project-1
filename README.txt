@@ -7,3 +7,8 @@ ufodod.js is in the ‘js’ folder, background.png, wizardWalking.png, and ghos
 
 Move with the arrow keys, 
 don’t let the ghost touch you to win. 
+
+
+Repository location
+
+https://github.com/zeuqram23/cs-4070-project-1
